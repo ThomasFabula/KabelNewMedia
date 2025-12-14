@@ -6,7 +6,7 @@
 - Amtsgericht Hamburg HRB 70531
 - EUID: DEK1101R.HRB70531
 
-### Gegenstand (DE)
+### Firmen Gegenstand (DE)
 Strategische Beratung, Konzeptentwicklung, Design und Realisation interaktiver computergestützter 
 Kommunikationssysteme sowie zugehörige Dienstleistungen und Handelsgeschäfte. Ausgenommen sind 
 erlaubnispflichtige Tätigkeiten. Die Gesellschaft übt das operative Geschäft über ihre hundertprozentige 
