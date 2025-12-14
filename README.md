@@ -6,7 +6,7 @@
 - Amtsgericht Hamburg HRB 70531
 - EUID: DEK1101R.HRB70531
 
-### Gegenstand
+### Gegenstand (DE)
 Strategische Beratung, Konzeptentwicklung, Design und Realisation interaktiver computergestützter 
 Kommunikationssysteme sowie zugehörige Dienstleistungen und Handelsgeschäfte. Ausgenommen sind 
 erlaubnispflichtige Tätigkeiten. Die Gesellschaft übt das operative Geschäft über ihre hundertprozentige 
@@ -15,6 +15,16 @@ zukünftige weitere Tochtergesellschaften aus. Sie darf zur Ausgliederung bereit
 Geschäftsbereiche der Kabel New Media, Gesellschaft für computergestütze Kommunikation mbH sowie
 zur Erweiterung bestehender oder zum Aufbau neuer Geschäftsbereiche weitere Tochtergesellschaften
 gründen oder erwerben
+
+### Business purpose (EN)
+Strategic consulting, concept development, design, and implementation of interactive computer-based 
+communication systems, as well as related services and commercial transactions. Activities requiring 
+a license are excluded. The company conducts its operating business through its wholly owned subsidiary 
+Kabel New Media, Gesellschaft für computergestützte Kommunikation mbH, or through future additional 
+subsidiaries. It may establish or acquire additional subsidiaries for the purpose of spinning off 
+existing business areas of Kabel New Media, Gesellschaft für computergestützte Kommunikation mbH,
+as well as for the purpose of expanding existing business areas or establishing new ones.
+
 
 ## Short history
 Kabel New Media AG, based in Hamburg, was a well-known German Dorcom full-service agency led by Peter Kabel, 
