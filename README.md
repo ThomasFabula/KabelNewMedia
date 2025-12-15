@@ -27,7 +27,7 @@ as well as for the purpose of expanding existing business areas or establishing 
 
 
 ## Short history
-Kabel New Media AG, based in Hamburg, was a well-known German Dorcom full-service agency led by Peter Kabel, 
+Kabel New Media AG, based in Hamburg, was a well-known German Dot.com full-service agency led by Peter Kabel, 
 which became famous in the New Economy through rapid growth and a spectacular stock market listing in 1999, 
 but ultimately had to file for bankruptcy in 2001 due to the bursting of the dot-com bubble. The company 
 designed websites and complex e-commerce system applications, including SAP integration, acquired many 
