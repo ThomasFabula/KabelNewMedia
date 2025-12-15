@@ -51,4 +51,7 @@ investor, while the company itself no longer exists.
 - https://www.horizont.at/marketing/news/deutsche-multimedia-nummer-1-kabel-new-media-24218
 - https://www.welt.de/print-wams/article127097/Dieser-Mann-ist-Ansichtssache.html
 - https://www.netzwoche.ch/news/2014-01-31/insolvenzverfahren-ueber-kabel-new-media-eroeffnet
+- https://www.manager-magazin.de/finanzen/artikel/a-165922.html
+- https://www.spiegel.de/wirtschaft/neuer-markt-kabel-new-media-im-todeskampf-a-142460.html
+- https://www.brrs-rechtsanwaelte.de/de/referenzen/kabel-new-media/
 - to be continued
