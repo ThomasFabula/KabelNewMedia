@@ -46,6 +46,7 @@ investor, while the company itself no longer exists.
 - www.horizont.net/medien/nachrichten/-Kabel-New-Media-strafft-Unternehmensstruktur-und-Vorstandsriege-30050
 - www.horizont.at/digital/news/kabel-new-media-stellt-insolvenzantrag-23509
 - www.horizont.net/medien/nachrichten/-Kabel-New-Media-akquiriert-K-Web-19735
+- https://www.welt.de/print-welt/article465693/Kabel-New-Media-Finanzvorstand-Fritz-Mathys-verlaesst-Internet-Agentur.html
 - https://www.facebook.com/kabelnewmedia/
 - https://web.archive.org/web/19961108081054/http:/www.kabel.de/
 - https://www.horizont.at/suche/schlagworte/peter-kabel/
