@@ -39,6 +39,7 @@ Peter Kabel remained active as a professor at the Hamburg University of Applied 
 investor, while the company itself no longer exists.
 
 ## Further information
+- https://www.northdata.de/Kabel%20New%20Media%20AG,%20Hamburg/HRB%2070531
 - https://gsc-research.de/unternehmen/620
 - https://gsc-research.de/berichte/39124
 - www.horizont.at/digital/news/kabel-new-media-verordnet-sich-restrukturierung-24095
