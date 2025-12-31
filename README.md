@@ -57,3 +57,6 @@ investor, while the company itself no longer exists.
 - https://www.spiegel.de/wirtschaft/neuer-markt-kabel-new-media-im-todeskampf-a-142460.html
 - https://www.brrs-rechtsanwaelte.de/de/referenzen/kabel-new-media/
 - to be continued
+
+## TFConsult 
+- https://tfconsult.com/kabel-new-media/
