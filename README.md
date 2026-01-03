@@ -61,6 +61,7 @@ investor, while the company itself no longer exists.
 
 ## TFConsult 
 - https://tfconsult.com/kabel-new-media/
+- https://tfconsult.com/transformational-change/
 - https://tfconsult.com/dt_testimonials/prof-peter-kabel-kabel-new-media-ag-hamburg/
 
 
