@@ -1,7 +1,7 @@
 # KabelNewMedia
 
 ## Kabel New Media AG, Hamburg 
-- Website: www.kabel.de
+- Website: www.kabel.de (nichzt nehr verfügbar)
 - Adresse: Schanzenstr. 70, D-20357 Hamburg
 - Amtsgericht Hamburg HRB 70531
 - EUID: DEK1101R.HRB70531
